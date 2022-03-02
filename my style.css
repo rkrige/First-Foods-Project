@@ -3,7 +3,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #8F9779;
+  background-color: green;
 }
 
 li {
@@ -24,5 +24,10 @@ li a:hover {
 }
 
 body{
-  background-color: #8F9779;
+  background-color: green;
+}
+
+
+h1 {
+  font-family: "Lucida Console", "Courier New", monospace;
 }
