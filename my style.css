@@ -31,3 +31,8 @@ body{
 h1 {
   font-family: "Lucida Console", "Courier New", monospace;
 }
+
+p {
+  .p2 {
+  font-family: copperplate, fantasy , sans-serif;
+}
