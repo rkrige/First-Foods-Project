@@ -3,7 +3,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: avocado;
+  background-color: #8F9779;
 }
 
 li {
@@ -24,7 +24,7 @@ li a:hover {
 }
 
 body{
-  background-color: avocado;
+  background-color: #8F9779;
 }
 
 
