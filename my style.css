@@ -33,7 +33,18 @@ h1 {
   color: #321414;
 }
 
+h2 {
+  font-family: "Lucida Console", "Courier New", monospace;
+  color: #321414;
+}
+
 p {
+ 
+  font-family: "Trebuchet MS" , sans-serif;
+  color: #321414;
+}
+
+ul {
  
   font-family: "Trebuchet MS" , sans-serif;
   color: #321414;
